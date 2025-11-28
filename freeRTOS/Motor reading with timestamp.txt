@@ -1,0 +1,319 @@
+ID: 1, Timestamp: 45501224
+ID: 2, Timestamp: 45502148
+ID: 3, Timestamp: 45502276
+
+ID: 1, Timestamp: 45504206
+ID: 2, Timestamp: 45505153
+ID: 3, Timestamp: 45505324
+
+ID: 1, Timestamp: 45507095
+ID: 2, Timestamp: 45508068
+ID: 3, Timestamp: 45508188
+
+ID: 1, Timestamp: 45510137
+ID: 2, Timestamp: 45511076
+ID: 3, Timestamp: 45511237
+
+ID: 1, Timestamp: 45513185
+ID: 2, Timestamp: 45514096
+ID: 3, Timestamp: 45514249
+
+ID: 1, Timestamp: 45516162
+ID: 2, Timestamp: 45517113
+ID: 3, Timestamp: 45517235
+
+ID: 1, Timestamp: 45519132
+ID: 2, Timestamp: 45520051
+ID: 3, Timestamp: 45520207
+
+ID: 1, Timestamp: 45522093
+ID: 2, Timestamp: 45523070
+ID: 3, Timestamp: 45523197
+
+ID: 1, Timestamp: 45525158
+ID: 2, Timestamp: 45526091
+ID: 3, Timestamp: 45526386
+
+ID: 2, Timestamp: 45529128
+ID: 3, Timestamp: 45529281
+ID: 1, Timestamp: 45531093
+
+ID: 2, Timestamp: 45532049
+ID: 3, Timestamp: 45532169
+ID: 1, Timestamp: 45534158
+
+ID: 2, Timestamp: 45535147
+ID: 3, Timestamp: 45535275
+ID: 1, Timestamp: 45537127
+
+ID: 2, Timestamp: 45538057
+ID: 3, Timestamp: 45538238
+ID: 1, Timestamp: 45540094
+
+ID: 2, Timestamp: 45541067
+ID: 3, Timestamp: 45541198
+ID: 1, Timestamp: 45543160
+
+ID: 2, Timestamp: 45544166
+ID: 1, Timestamp: 45546224
+
+ID: 2, Timestamp: 45547172
+ID: 3, Timestamp: 45547314
+ID: 1, Timestamp: 45549123
+
+ID: 2, Timestamp: 45550095
+ID: 3, Timestamp: 45550220
+ID: 1, Timestamp: 45552099
+
+ID: 2, Timestamp: 45553021
+ID: 3, Timestamp: 45553275
+ID: 1, Timestamp: 45555159
+
+ID: 2, Timestamp: 45556126
+ID: 3, Timestamp: 45556249
+ID: 1, Timestamp: 45558132
+
+ID: 2, Timestamp: 45559032
+ID: 3, Timestamp: 45559237
+ID: 1, Timestamp: 45561125
+
+ID: 2, Timestamp: 45562064
+ID: 3, Timestamp: 45562222
+ID: 1, Timestamp: 45564113
+
+ID: 2, Timestamp: 45565072
+ID: 3, Timestamp: 45565210
+ID: 1, Timestamp: 45567093
+
+ID: 2, Timestamp: 45567999
+ID: 3, Timestamp: 45568187
+ID: 1, Timestamp: 45570157
+
+ID: 2, Timestamp: 45571094
+ID: 3, Timestamp: 45571255
+ID: 1, Timestamp: 45573125
+
+ID: 2, Timestamp: 45574111
+ID: 3, Timestamp: 45574225
+ID: 1, Timestamp: 45576111
+
+ID: 2, Timestamp: 45577053
+ID: 3, Timestamp: 45577208
+ID: 1, Timestamp: 45579091
+
+ID: 2, Timestamp: 45580070
+ID: 3, Timestamp: 45580190
+ID: 1, Timestamp: 45582155
+
+ID: 2, Timestamp: 45583080
+ID: 3, Timestamp: 45583234
+ID: 2, Timestamp: 45586114
+
+ID: 3, Timestamp: 45586269
+ID: 1, Timestamp: 45588114
+ID: 2, Timestamp: 45589027
+
+ID: 3, Timestamp: 45589153
+ID: 1, Timestamp: 45591220
+ID: 2, Timestamp: 45592049
+
+ID: 1, Timestamp: 45594152
+ID: 2, Timestamp: 45595139
+ID: 3, Timestamp: 45595259
+
+ID: 1, Timestamp: 45597120
+ID: 2, Timestamp: 45598062
+ID: 3, Timestamp: 45598174
+
+ID: 1, Timestamp: 45600088
+ID: 2, Timestamp: 45600992
+ID: 3, Timestamp: 45601168
+
+ID: 1, Timestamp: 45603152
+ID: 2, Timestamp: 45604095
+ID: 3, Timestamp: 45604238
+
+ID: 1, Timestamp: 45606120
+ID: 2, Timestamp: 45607040
+ID: 3, Timestamp: 45607184
+ID: 1, Timestamp: 45609104
+ID: 2, Timestamp: 45610054
+ID: 3, Timestamp: 45610174
+ID: 1, Timestamp: 45612156
+ID: 2, Timestamp: 45613073
+ID: 3, Timestamp: 45613209
+ID: 1, Timestamp: 45615140
+ID: 2, Timestamp: 45616093
+ID: 1, Timestamp: 45618189
+ID: 2, Timestamp: 45619113
+ID: 3, Timestamp: 45619265
+ID: 1, Timestamp: 45621158
+ID: 2, Timestamp: 45622109
+ID: 3, Timestamp: 45622236
+ID: 1, Timestamp: 45624139
+ID: 2, Timestamp: 45625049
+ID: 3, Timestamp: 45625200
+ID: 1, Timestamp: 45627110
+ID: 2, Timestamp: 45628064
+ID: 3, Timestamp: 45628184
+ID: 1, Timestamp: 45630172
+ID: 2, Timestamp: 45631079
+ID: 3, Timestamp: 45631241
+ID: 1, Timestamp: 45633145
+ID: 2, Timestamp: 45634090
+ID: 3, Timestamp: 45634221
+ID: 1, Timestamp: 45636115
+ID: 2, Timestamp: 45637040
+ID: 1, Timestamp: 45639153
+ID: 2, Timestamp: 45640129
+ID: 3, Timestamp: 45640249
+ID: 1, Timestamp: 45642141
+ID: 2, Timestamp: 45643045
+ID: 3, Timestamp: 45643222
+ID: 1, Timestamp: 45645112
+ID: 2, Timestamp: 45646065
+ID: 3, Timestamp: 45646185
+ID: 1, Timestamp: 45648164
+ID: 2, Timestamp: 45649085
+ID: 3, Timestamp: 45649256
+ID: 1, Timestamp: 45651144
+ID: 2, Timestamp: 45652106
+ID: 3, Timestamp: 45652233
+ID: 1, Timestamp: 45654327
+ID: 2, Timestamp: 45655183
+ID: 3, Timestamp: 45655304
+ID: 1, Timestamp: 45657180
+ID: 2, Timestamp: 45658096
+ID: 3, Timestamp: 45658282
+ID: 1, Timestamp: 45660153
+ID: 2, Timestamp: 45661104
+ID: 3, Timestamp: 45661241
+ID: 1, Timestamp: 45663134
+ID: 2, Timestamp: 45664098
+ID: 3, Timestamp: 45664220
+ID: 1, Timestamp: 45666102
+ID: 2, Timestamp: 45667034
+ID: 3, Timestamp: 45667210
+ID: 2, Timestamp: 45670224
+ID: 3, Timestamp: 45670399
+ID: 1, Timestamp: 45672149
+ID: 2, Timestamp: 45673121
+ID: 3, Timestamp: 45673242
+ID: 1, Timestamp: 45675130
+ID: 2, Timestamp: 45676037
+ID: 3, Timestamp: 45676235
+ID: 1, Timestamp: 45678105
+ID: 2, Timestamp: 45679136
+ID: 3, Timestamp: 45679270
+ID: 1, Timestamp: 45681169
+ID: 2, Timestamp: 45682143
+ID: 3, Timestamp: 45682264
+ID: 1, Timestamp: 45684140
+ID: 2, Timestamp: 45685057
+ID: 3, Timestamp: 45685178
+ID: 1, Timestamp: 45687110
+ID: 2, Timestamp: 45688077
+ID: 3, Timestamp: 45688198
+ID: 1, Timestamp: 45690143
+ID: 2, Timestamp: 45691097
+ID: 3, Timestamp: 45691219
+ID: 1, Timestamp: 45693110
+ID: 2, Timestamp: 45694003
+ID: 3, Timestamp: 45694318
+ID: 1, Timestamp: 45696167
+ID: 2, Timestamp: 45697106
+ID: 3, Timestamp: 45697233
+ID: 1, Timestamp: 45699139
+ID: 2, Timestamp: 45700033
+ID: 3, Timestamp: 45700185
+ID: 1, Timestamp: 45702109
+ID: 2, Timestamp: 45703047
+ID: 3, Timestamp: 45703169
+ID: 1, Timestamp: 45705156
+ID: 2, Timestamp: 45706134
+ID: 3, Timestamp: 45706254
+ID: 1, Timestamp: 45708132
+ID: 2, Timestamp: 45709033
+ID: 3, Timestamp: 45709164
+ID: 1, Timestamp: 45711321
+ID: 2, Timestamp: 45712131
+ID: 3, Timestamp: 45712313
+ID: 1, Timestamp: 45714141
+ID: 2, Timestamp: 45715045
+ID: 3, Timestamp: 45715222
+ID: 1, Timestamp: 45717126
+ID: 2, Timestamp: 45718061
+ID: 3, Timestamp: 45718181
+ID: 1, Timestamp: 45720095
+ID: 2, Timestamp: 45721069
+ID: 3, Timestamp: 45721189
+ID: 1, Timestamp: 45723161
+ID: 2, Timestamp: 45724085
+ID: 3, Timestamp: 45724261
+ID: 1, Timestamp: 45726134
+ID: 2, Timestamp: 45727100
+ID: 3, Timestamp: 45727221
+ID: 1, Timestamp: 45729101
+ID: 2, Timestamp: 45730027
+ID: 3, Timestamp: 45730198
+ID: 1, Timestamp: 45732160
+ID: 2, Timestamp: 45733125
+ID: 3, Timestamp: 45733244
+ID: 1, Timestamp: 45735131
+ID: 2, Timestamp: 45736046
+ID: 3, Timestamp: 45736294
+ID: 1, Timestamp: 45738100
+ID: 2, Timestamp: 45739066
+ID: 3, Timestamp: 45739186
+ID: 1, Timestamp: 45741165
+ID: 2, Timestamp: 45742086
+ID: 3, Timestamp: 45742238
+ID: 1, Timestamp: 45744137
+ID: 2, Timestamp: 45745078
+ID: 1, Timestamp: 45747191
+ID: 2, Timestamp: 45748169
+ID: 3, Timestamp: 45748289
+ID: 1, Timestamp: 45750167
+ID: 2, Timestamp: 45751085
+ID: 3, Timestamp: 45751258
+ID: 1, Timestamp: 45753259
+ID: 2, Timestamp: 45754079
+ID: 3, Timestamp: 45754199
+ID: 1, Timestamp: 45756125
+ID: 2, Timestamp: 45757094
+ID: 3, Timestamp: 45757220
+ID: 1, Timestamp: 45759095
+ID: 2, Timestamp: 45760020
+ID: 3, Timestamp: 45760195
+ID: 1, Timestamp: 45762157
+ID: 2, Timestamp: 45763118
+ID: 3, Timestamp: 45763239
+ID: 1, Timestamp: 45765127
+ID: 2, Timestamp: 45766040
+ID: 3, Timestamp: 45766211
+ID: 1, Timestamp: 45768098
+ID: 2, Timestamp: 45769137
+ID: 3, Timestamp: 45769260
+ID: 1, Timestamp: 45771164
+ID: 2, Timestamp: 45772124
+ID: 3, Timestamp: 45772244
+ID: 1, Timestamp: 45774147
+ID: 2, Timestamp: 45775118
+ID: 3, Timestamp: 45775240
+ID: 1, Timestamp: 45777128
+ID: 2, Timestamp: 45778027
+ID: 3, Timestamp: 45778235
+ID: 1, Timestamp: 45780115
+ID: 2, Timestamp: 45781037
+ID: 3, Timestamp: 45781173
+ID: 2, Timestamp: 45784151
+ID: 3, Timestamp: 45784310
+ID: 1, Timestamp: 45786129
+ID: 2, Timestamp: 45787067
+ID: 3, Timestamp: 45787221
+ID: 1, Timestamp: 45789119
+ID: 2, Timestamp: 45790083
+ID: 3, Timestamp: 45790196
+ID: 1, Timestamp: 45792091
+ID: 2, Timestamp: 45792992
+ID: 3, Timestamp: 45793185
